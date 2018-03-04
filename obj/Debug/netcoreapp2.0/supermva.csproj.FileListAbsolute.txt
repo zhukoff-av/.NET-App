@@ -1,0 +1,10 @@
+/Users/az/Desktop/myDotNetApp/bin/Debug/netcoreapp2.0/supermva.deps.json
+/Users/az/Desktop/myDotNetApp/bin/Debug/netcoreapp2.0/supermva.runtimeconfig.json
+/Users/az/Desktop/myDotNetApp/bin/Debug/netcoreapp2.0/supermva.runtimeconfig.dev.json
+/Users/az/Desktop/myDotNetApp/bin/Debug/netcoreapp2.0/supermva.dll
+/Users/az/Desktop/myDotNetApp/bin/Debug/netcoreapp2.0/supermva.pdb
+/Users/az/Desktop/myDotNetApp/obj/Debug/netcoreapp2.0/supermva.csproj.CoreCompileInputs.cache
+/Users/az/Desktop/myDotNetApp/obj/Debug/netcoreapp2.0/supermva.AssemblyInfoInputs.cache
+/Users/az/Desktop/myDotNetApp/obj/Debug/netcoreapp2.0/supermva.AssemblyInfo.cs
+/Users/az/Desktop/myDotNetApp/obj/Debug/netcoreapp2.0/supermva.dll
+/Users/az/Desktop/myDotNetApp/obj/Debug/netcoreapp2.0/supermva.pdb

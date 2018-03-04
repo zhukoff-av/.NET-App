@@ -1,12 +1,19 @@
 ﻿using System;
+using movingToTheWeb;
+using Microsoft.AspNetCore.Hosting;
 
-namespace myApp
+namespace supermva
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(".NET apps works");
-        }
+          var host = new WebHostBuilder()
+            .UseKestrel()
+            .UseStartup<Startup>()
+            .Build();
+
+          host.Run();
+          }
     }
 }
