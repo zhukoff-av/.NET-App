@@ -1,0 +1,10 @@
+/Users/az/Desktop/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/az/Desktop/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/az/Desktop/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/az/Desktop/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/az/Desktop/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/az/Desktop/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/az/Desktop/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/az/Desktop/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/az/Desktop/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/az/Desktop/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
